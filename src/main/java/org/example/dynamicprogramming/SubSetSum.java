@@ -40,7 +40,6 @@ public class SubSetSum {
                 dp[i][target] = take || nottake;
             }
         }
-        System.out.println(Arrays.deepToString(dp));
         return dp[n-1][k];
     }
 

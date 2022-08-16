@@ -5,95 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2565e310-9191-4f91-a838-7dee1a2f1b93" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/backtracking_recursion/FloodFill.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/backtracking_recursion/KeypadCombinations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/backtracking_recursion/KnightsTour.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/backtracking_recursion/KnightsTour2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/backtracking_recursion/MazePathWithJumpStrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/backtracking_recursion/MazePaths.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/backtracking_recursion/MazePathsWithStrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/backtracking_recursion/MazepathwithJump.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/backtracking_recursion/NQueens.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/backtracking_recursion/StaircasePathWithStrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/backtracking_recursion/StaircasePaths.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/backtracking_recursion/StringPerm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/backtracking_recursion/StringPerm2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/backtracking_recursion/TargetSumSubset.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/codingexams/CountPallindromeSubstring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/codingexams/FriendCircle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/codingexams/LongestWorkSlot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/codingexams/LostInForest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/dynamicprogramming/Fibonacci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/dynamicprogramming/FrogJump.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/dynamicprogramming/FrogJumpWithKJumps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/dynamicprogramming/GridTraveller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/dynamicprogramming/MaxSumSubarraywithNonAdjacentElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/dynamicprogramming/NinjasTraining.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/dynamicprogramming/SubSetSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/dynamicprogramming/TwoSubsetMinimumDiff.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/dynamicprogramming/ZeroOneKnapSack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/graph/CountConnectedComponent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/graph/CountIsland.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/graph/CreateGraph.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/graph/DfsBfs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/graph/DijkstrasAlgo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/graph/DirectedGraphLoopDetectBFS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/graph/DirectedGraphLoopDetectDFS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/graph/EdgeListToAdjList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/graph/Haspath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/graph/LargestIslandFind.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/graph/LoopDetectBfs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/graph/MinimumIsland.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/graph/PrimsAlgo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/graph/ShortestDistanceWeightedDirectedAcyclicGraph.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/graph/TopologicalSortBFSKahnsAlgo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/graph/TopologicalSortDFS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/graph/UnionFind.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/graph/WallsAndGates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/graph/WordLadder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/graph/practicePrim.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/graph/startNew.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/hashing/Chaining.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/hashing/CustomHash.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/hashing/KeyPairHashing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/hashing/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/hashing/PositiveNegativePairs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/hashing/SortedMaps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/hashing/SumFour.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/hashing/WinnerElection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/hashing/ZeroSumSubarray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/hashing/treeMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/linkedlist/reverseLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/linkedlist/reverseinKgroups.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/linkedlist/reverseinPairs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/streams/Basic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/string/Question.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/string/StringAppendingTime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/string/StringCompare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/string/StringCompression2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/string/StringPermutation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/string/Stringbuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/string/Substring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/string/SubstringPallindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/trees/BFSTraversal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/trees/BoundaryTraversal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/trees/ConstructFromPreorderInorder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/trees/DFSTraversal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/trees/DFSTraversalIterative.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/trees/EqualTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/trees/LowestCommonAncestor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/trees/MaxPathSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/trees/MaxTreeHeight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/trees/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/trees/RootToNodePath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/trees/SerializeDeserialize.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/trees/TreeDiameter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/trees/ZigZagTraversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/dynamicprogramming/NumberOfSubsetsWithKSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/dynamicprogramming/SubSetSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/dynamicprogramming/SubSetSum.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -123,7 +37,8 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/home/eye-of-horus/Documents/git/DSA-In-Java/src/main/java/org/example"
+    "last_opened_file_path": "/home/eye-of-horus/Documents/git/DSA-In-Java/src/main/java/org/example",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -131,7 +46,20 @@
       <recent name="$PROJECT_DIR$/src/main/java/org/example" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TwoSubsetMinimumDiff">
+  <component name="RunManager" selected="Application.NumberOfSubsetsWithKSum">
+    <configuration name="NumberOfSubsetsWithKSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.dynamicprogramming.NumberOfSubsetsWithKSum" />
+      <module name="DSA-In-Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.dynamicprogramming.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SubSetSum" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.dynamicprogramming.SubSetSum" />
       <module name="DSA-In-Java" />
@@ -167,11 +95,13 @@
     </configuration>
     <list>
       <item itemvalue="Application.SubSetSum" />
+      <item itemvalue="Application.NumberOfSubsetsWithKSum" />
       <item itemvalue="Application.TwoSubsetMinimumDiff" />
       <item itemvalue="Application.org.example.dynamicprogramming.GridTraveller" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NumberOfSubsetsWithKSum" />
         <item itemvalue="Application.TwoSubsetMinimumDiff" />
         <item itemvalue="Application.org.example.dynamicprogramming.GridTraveller" />
       </list>
