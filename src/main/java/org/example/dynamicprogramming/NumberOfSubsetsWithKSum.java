@@ -36,12 +36,12 @@ public class NumberOfSubsetsWithKSum {
     public static int findWays(int num[], int tar) {
         int n = num.length;
         dp = new int[n][tar+1];
-        return findsubsetsMem(n-1, tar, num);
+        return populateDPTable(n, tar, num);
 
     }
     public static void main(String[] args) {
-        int[] num = {2, 34};
-        int tar = 41;
+        int[] num = {0, 0, 1};
+        int tar = 1;
 
         System.out.println(findWays(num, tar));
 
